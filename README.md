@@ -25,7 +25,7 @@ Upgrade requirements
 
 * How?
 
-  1. Prepare the paper citation using APA format
+  1. Prepare the paper citation using __APA__ format
 
      ![cite](./pictures/01.png)
 
